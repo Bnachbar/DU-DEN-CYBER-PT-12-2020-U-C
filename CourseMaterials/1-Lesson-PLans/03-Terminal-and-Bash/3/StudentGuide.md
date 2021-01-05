@@ -77,7 +77,7 @@ Security professionals often face the following challenges:
 
     For example, take a look at the following web server log file:
 
- ![complex log file with many lines of code](Images/complexlogs.png)
+ ![complex log file with many lines of code](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/03-Terminal-and-Bash/3/Images/complexlogs.png?token=AQCHCGDU3HLYEOOTZY3RGNS77YH7W)
 
 - These complex data files can be difficult for anyone to analyze.
 
@@ -456,7 +456,7 @@ We will use Nano to create a simple shell script that contains the two following
 
 4.  Run the command `nano myfirstscript.sh` and see that this takes you to an editing window within the terminal.
 
-    ![editing window in terminal](Images/nano_screenshot.png)
+    ![editing window in terminal](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/03-Terminal-and-Bash/3/Images/nano_screenshot.png?token=AQCHCGGKDCOGZC7QIUDYIPC77YIBC)
 
      This program is similar to Notepad in Windows, where we can edit the file as needed.
 
