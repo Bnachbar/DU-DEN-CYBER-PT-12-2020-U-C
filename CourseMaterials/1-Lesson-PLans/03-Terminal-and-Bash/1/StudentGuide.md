@@ -101,7 +101,7 @@ In today's exercises, you will be playing the role of security analysts at a can
 
 We will begin by talking about the common GUI equivalent of a directory:
 
-![terminal1](Images/terminal1.png)
+![terminal1](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/03-Terminal-and-Bash/1/Images/terminal1.png?token=AQCHCGDZA2UYC6YWR4DO3H277YFCA)
 
 Each one of the folders in the image can contain other sub-folders and files.
 
