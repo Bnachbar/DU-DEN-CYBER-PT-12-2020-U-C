@@ -36,7 +36,7 @@ Welcome to the third week of class. Today, you will be learning the basics of th
 
 Most of you are likely familiar with a Microsoft Windows or a Mac interface that looks like the following:
 
-   ![winvsmac](Images/gui.png)
+   ![winvsmac](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/03-Terminal-and-Bash/1/Images/gui.png?token=AQCHCGF2DFZSGTBKQD4YLRC77YEX4)
   
 - These interfaces are called **Graphical User Interfaces** or **GUI** (pronounced "gooey").
 
