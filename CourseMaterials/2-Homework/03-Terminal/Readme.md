@@ -20,8 +20,8 @@ You have just been hired by Lucky Duck Casino as a security analyst.
 
 Lucky Duck Casino has provided you with the following files if required:
 
-  - [Roulette Player Data: Week of March 10](Resources/Roulette_Player_WinLoss_0310.zip)
-  - [Employee Dealer Schedule: Week of March 10](Resources/Dealer_Schedules_0310.zip)
+  - [Roulette Player Data: Week of March 10](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/03-Terminal/Resources%20/Roulette_Player_WinLoss_0310.zip)
+  - [Employee Dealer Schedule: Week of March 10](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/03-Terminal/Resources%20/Dealer_Schedules_0310.zip)
 
 **Note**: The instructions ask you to set up the files using a `wget` command, but the files are also provided in compressed zip format if the command does not work.
 
