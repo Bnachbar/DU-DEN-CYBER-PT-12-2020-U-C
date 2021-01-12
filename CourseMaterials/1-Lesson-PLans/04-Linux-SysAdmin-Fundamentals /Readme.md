@@ -87,7 +87,7 @@ For more information about these Security+ domains, refer to the following resou
   - Pages: 87, 192, 173, 182
 
 
-- [Linux Cheat Sheet](resources/Cheat-Sheet.md) 
+- [Linux Cheat Sheet](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/Resources/Cheat-Sheet.md) 
 
 
 **Day 1 Resources**
