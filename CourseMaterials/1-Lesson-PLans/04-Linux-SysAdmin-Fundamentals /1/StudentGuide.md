@@ -472,11 +472,11 @@ First, we’ll run `top` on our system to better understand its output.
 
 `top` splits its output into two panes: an upper summary pane, and a lower details pane.
 
-![top output panes](Images/top_basic.png)
+![top output panes](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/top_basic.png?token=AQCHCGDLSGL7JHKVURCI2F3AA4NEW)
 
 - The information in the pane at the very top summarizes overall resource usage.
 
-  ![top output panes - top](Images/top_top.png)
+  ![top output panes - top](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/top_top.png?token=AQCHCGAB6KWTJFD4HTMVXIDAA4NE2)
 
 - The top row shows the current time of the system, how long it has been up, and how many users are using the system.
 
@@ -490,7 +490,7 @@ While this top pane is useful for diagnosing a machine's general health, we must
 
 The bottom pane breaks down usage by each individual processes running on the system.
 
-![top output pane, bottom](Images/top_bottom.png)
+![top output pane, bottom](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/top_bottom.png?token=AQCHCGDJIESXYE725VRO5VLAA4NFG)
 
 The following columns are the most important sections for our purposes:
 
@@ -510,7 +510,7 @@ The following columns are the most important sections for our purposes:
 
 You can enable column highlighting and sorting by pressing the `x` key. By default, the `%CPU` column is highlighted and sorted by highest `CPU` usage.
 
-![top output pane, top](Images/top_highlighted.png)
+![top output pane, top](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/top_highlighted.png?token=AQCHCGFV6RTUNN5XD6P26VDAA4NFQ)
 
 You can also sort the processes by what user started it pressing the `u` key.
 
@@ -518,7 +518,7 @@ You can also sort the processes by what user started it pressing the `u` key.
 
 - Enter `root` to demonstrate sorting by processes started by the root user.
 
-![top output pane, user list](Images/top_users.png)
+![top output pane, user list](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/top_users.png?token=AQCHCGEZ7GGSOSCBEY2RJHLAA4NFW)
 
 At the moment, nothing much is happening on the system, so CPU usage is relatively low. This is what you'd expect a "normal" system to look like.
 
@@ -650,7 +650,7 @@ In order to both process and inspect the results with `top`, you'll need two ter
 
 - Press `x` again to sort by `%CPU`. You should see output similar to the image below.
 
-  ![output pane](Images/Stress.png)
+  ![output pane](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/Stress.png?token=AQCHCGFSADSJKTDWC6EWHODAA4NGC)
 
 
   - You can easily see the `stress` command in the command column.
@@ -695,7 +695,7 @@ Looking at all the processes this way is a bit cumbersome.
 
 - Run `ps a`. This gives us a much more manageable output and we can see the `stress` processes clearly.
 
-![manageable output](Images/ps_a.png)
+![manageable output](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/1/Images/ps_a.png?token=AQCHCGGP3YSJWVEFHQBIF5DAA4NGI)
 
 Note one of the `stress` PIDs you want to kill.  Remember that the PID is the second column from the left.
 
