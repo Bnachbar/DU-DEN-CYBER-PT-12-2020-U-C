@@ -115,7 +115,7 @@ For more information about these Security+ domains, refer to the following resou
 
 This unit's homework assignment can be viewed here: 
 
-- [Unit Homework File](../../2-Homework/04-Linux-SysAdmin-Fundamentals)
+- [Unit Homework File](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/04-Linux-SysAdmin-Fundamentals%20/Readme.md)
 
 ### Looking Forward 
 
