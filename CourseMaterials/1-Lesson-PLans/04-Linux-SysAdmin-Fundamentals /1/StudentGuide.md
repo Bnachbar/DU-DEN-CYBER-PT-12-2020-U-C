@@ -111,11 +111,11 @@ One of the most important skills you will gain in this module is comfort with th
 
 ### 03. Activity: Distribution Research
 
-  - [Activity File: Distribution Research](Activities/03_Distro_Research/Unsolved/README.md)
+  - [Activity File: Distribution Research](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/03_Distro_Research%20/Unsolved/README.md)
 
 ### 04. Activity Review: Distribution Research
 
-- [Solution Guide: Distribution Research](Activities/03_Distro_Research/Solved/README.md)
+- [Solution Guide: Distribution Research](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/03_Distro_Research%20/Solved/README.md)
 
 
 ### 05. Linux File System Structure
@@ -365,7 +365,7 @@ Because files in `/tmp` are deleted between reboots, hackers often save maliciou
 - `/bin` and `/sbin`: Where the system keeps its main _binary_ or program files.
 
 ### 06. Activity: Linux Landmarks
- - [Activity File: Linux Landmarks](Activities/06_Linux_Landmarks/Unsolved/README.md)
+ - [Activity File: Linux Landmarks](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/06_Linux_Landmarks/Unsolved/README.md)
  
  **Note**: You need to run the following command to set up this activity: 
   -  `sudo bash /home/instructor/Documents/setup_scripts/instructor/landmarks_review.sh`
@@ -374,7 +374,7 @@ Because files in `/tmp` are deleted between reboots, hackers often save maliciou
 
 ### 07. Activity Review: Linux Landmarks
 
-- [Solution Guide: Linux Landmarks](Activities/06_Linux_Landmarks/Solved/README.md)
+- [Solution Guide: Linux Landmarks](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/06_Linux_Landmarks/Solved/README.md)
 
 
 ---
@@ -728,13 +728,13 @@ While this example is simple for ease of demonstration, the `kill` processes is 
 
 ### 10. Activity: Process Investigation
 
-- [Activity File: Process Investigation](Activities/10_Process_Investigation/Unsolved/README.md)
+- [Activity File: Process Investigation](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/10_Process_Investigation%20/Unsolved/README.md)
 
 You will need to run `sudo bash /home/instructor/Documents/setup_scripts/instructor/processes.sh </dev/null &>/dev/null &` before starting this activity.
 
 ### 11. Activity Review: Process Investigation
 
-- [Solution Guide: Process Investigation](Activities/10_Process_Investigation/Solved/README.md)
+- [Solution Guide: Process Investigation](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/10_Process_Investigation%20/Solved/README.md)
 
 
 ### 12. Installing Packages
@@ -789,11 +789,11 @@ The final activity of the day will be a take home activity to practice installin
  
 ### 13. Take Home Activity: Installing Packages 
 
-- [Activity File: Installing Packages](Activities/13_Installing_Packages/Unsolved/README.md)
+- [Activity File: Installing Packages](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/13_Installing_Packages/Unsolved/README.md)
 
 ### 14. Take Home Activity Review: Installing Packages
 
-- [Solution Guide: Installing Packages](Activities/13_Installing_Packages/Solved/README.md)
+- [Solution Guide: Installing Packages](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/1/Activities/13_Installing_Packages/Solved/README.md)
 
 
 -------
