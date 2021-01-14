@@ -204,7 +204,7 @@ Step 2: Running John the Ripper
 
 ### 03: Activity: Talk to John
 
-- [Activity File: Let's Talk to John](Activities/03_Talk_to_John/Unsolved/README.md)
+- [Activity File: Let's Talk to John](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/2/Activities%20/03_Talk_to_John/Unsolved/README.md)
 
 
 
@@ -526,7 +526,7 @@ Attackers often look for this kind of loophole to escalate their privileges on a
 
 ### 06: Activity: sudo Wrestling
 
-- [Activity File: sudo Wrestling](Activities/06_Sudo_Wrestling/Unsolved/README.md)
+- [Activity File: sudo Wrestling](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/2/Activities%20/06_Sudo_Wrestling%20/Unsolved/README.md)
 
 
 ### 07. Activity Review: sudo Wrestling
@@ -775,7 +775,7 @@ Summary:
 
 ### 10. Activity: Users and Groups Activity
 
-- [Activity File: Users and Groups](Activities/10_Users_and_Groups/Unsolved/README.md)
+- [Activity File: Users and Groups](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/2/Activities%20/10_Users_and_Groups/Unsolved/README.md)
 
 
 
