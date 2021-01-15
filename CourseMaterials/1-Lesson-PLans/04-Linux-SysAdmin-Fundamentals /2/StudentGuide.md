@@ -532,7 +532,7 @@ Attackers often look for this kind of loophole to escalate their privileges on a
 ### 07. Activity Review: sudo Wrestling
 
 
-- [Solution Guide: Sudo Wrestling](Activities/06_Sudo_Wrestling/Solved/README.md) 
+- [Solution Guide: Sudo Wrestling](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/2/Activities%20/06_Sudo_Wrestling%20/Solved/README.md) 
 
 ### 08. Break
 
