@@ -210,7 +210,7 @@ Step 2: Running John the Ripper
 
 ### 04: Activity Review: Let's Talk to John
 
-- [Solution Guide: Let's Talk to John](Activities/03_Talk_to_John/Solved/README.md)
+- [Solution Guide: Let's Talk to John](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/2/Activities%20/03_Talk_to_John/Solved/README.md)
 
 ### 05: Privileges, root, sudo and su Demo
 We've used `sudo` for several commands in the last two days of class.
