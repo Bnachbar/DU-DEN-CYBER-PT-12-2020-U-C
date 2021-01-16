@@ -19,7 +19,7 @@ In order to get started with your tasks, you will need to open the Terminal with
 
 ### Instructions
 
-As you solve each step below, please fill out the [Submission File](SubmissionFile.md). This will be your homework deliverable.
+As you solve each step below, please fill out the [Submission File](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/04-Linux-SysAdmin-Fundamentals%20/SubmissionFile.md). This will be your homework deliverable.
 
 For each of the following steps, you will need to run the correct command and confirm the results.
 
@@ -97,7 +97,7 @@ Despite claims from enthusiasts, Linux is _not_ immune to malware. You will need
 
 
 ### Submission Guidelines 
-- Use the [Submission File](SubmissionFile.md) to document your answers. 
+- Use the [Submission File](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/04-Linux-SysAdmin-Fundamentals%20/SubmissionFile.md) to document your answers. 
 
 
 ### Vagrant Update
