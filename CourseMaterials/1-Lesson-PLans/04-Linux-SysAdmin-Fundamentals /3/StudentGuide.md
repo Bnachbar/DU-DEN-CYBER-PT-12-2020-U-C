@@ -333,7 +333,7 @@ We needed the following commands:
 ### 04. Activity Review: Access Controls and Permissions
 
 
-- [Solution Guide: Permissions](Activities/03_Permissions/Solved/README.md)
+- [Solution Guide: Permissions](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/3/Activities%20/03_Permissions/Solved/README.md)
 
 ### 05. Break
 
@@ -474,7 +474,7 @@ We have removed Samba from the system, so the following commands won't work. But
 
 ### 08. Activity Review: Managing Services 
 
-- [Solution Guide: Managing Services](Activities/07_Managing_Services/Solved/Readme.md)
+- [Solution Guide: Managing Services](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/3/Activities%20/07_Managing_Services/Solved/Readme.md)
 
 
 
