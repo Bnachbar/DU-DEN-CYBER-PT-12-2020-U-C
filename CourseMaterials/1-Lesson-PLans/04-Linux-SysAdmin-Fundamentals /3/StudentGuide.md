@@ -327,7 +327,7 @@ We needed the following commands:
 - `chmod` to change the permissions info.
 
 ### 03. Activity: Access Controls and Permissions
-- [Activity File: Permissions](Activities/03_Permissions/Unsolved/README.md)
+- [Activity File: Permissions](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/3/Activities%20/03_Permissions/Unsolved/README.md)
 
 
 ### 04. Activity Review: Access Controls and Permissions
@@ -439,7 +439,7 @@ We are enabling and disabling a service to configure whether or not it starts au
 
 - Your output should be similar to:
 
-  ![Output image](Images/smb_status.png)
+  ![Output image](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/3/Images/smb_status.png?token=AQCHCGAP6PG4N2H2TDVKJH3ABRAIM)
 
   - The service is marked as `Active: active (running)`.
 
@@ -449,7 +449,7 @@ We are enabling and disabling a service to configure whether or not it starts au
 
 - Your output should be similar to:
 
-  ![Output image](Images/smb_status_2.png)
+  ![Output image](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals/3/Images/smb_status_2.png?token=AQCHCGFLRMZAC2VD75YN5WTABRAIS)
 
   - The service is marked as `Active: inactive (dead)`.
 
@@ -469,7 +469,7 @@ We have removed Samba from the system, so the following commands won't work. But
 
 ### 07. Activity: Managing Services
 
-- [Activity File: Managing Services](Activities/07_Managing_Services/Unsolved/Readme.md)
+- [Activity File: Managing Services](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/3/Activities%20/07_Managing_Services/Unsolved/Readme.md)
 
 
 ### 08. Activity Review: Managing Services 
@@ -588,7 +588,7 @@ Scheduling programs to run at certain times is a topic for next week's class. Fo
 
 ### 10. Activity: Service Users
 
-- [Activity File: Service Users](Activities/10_Service_Users/Unsolved/Readme.md)
+- [Activity File: Service Users](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/04-Linux-SysAdmin-Fundamentals%20/3/Activities%20/10_Service_Users/Unsolved/Readme.md)
 
 ### 11. Activity Review: Service Users
 
@@ -599,7 +599,7 @@ Scheduling programs to run at certain times is a topic for next week's class. Fo
 
 This week, you will practice all of the hardening steps you have learned this week, but on a new system. You will also be running a few new tools: `chkrootkit` and `lynis`.
 
-  - [Week 4 Homework: Linux SysAdmin Fundamentals](../../../2-Homework/04-Linux-SysAdmin-Fundamentals/Readme.md)
+  - [Week 4 Homework: Linux SysAdmin Fundamentals](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/04-Linux-SysAdmin-Fundamentals%20/Readme.md)
 
 
 ---
