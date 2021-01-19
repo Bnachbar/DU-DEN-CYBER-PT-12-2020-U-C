@@ -223,7 +223,7 @@ Run the following command to compress the archive with a `.gz` extension.
 
 - `gunzip 2018-10-12-hurricane-backup.tar`
 
-![gzip](Images/gzip.png)
+![gzip](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/05-Archiving-and-Logging-Data/1/Images/gzip.png?token=AQCHCGAVCWDXUA2K3LXAMODACCE2O)
 
 #### Archiving Best Practices
 
