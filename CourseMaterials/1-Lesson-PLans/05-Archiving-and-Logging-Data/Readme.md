@@ -92,7 +92,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 - **Day 1 Resources**
 
-  - [How-to Geek: How to Compress and Extract Files Using tar](resources/Compress_Extract_Tar.pdf)
+  - [How-to Geek: How to Compress and Extract Files Using tar](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/Resources/Compress_Extract_Tar.pdf)
 
 - **Day 2 Resources**
 
@@ -100,9 +100,9 @@ These resources are provided as optional, recommended resources to supplement th
 
 - **Day 3 Resources**
 
-  - [How-to Geek: How to Use journalctl to Read Linux System Logs](resources/How_to_Use_journalctl.pdf)
+  - [How-to Geek: How to Use journalctl to Read Linux System Logs](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/Resources/How_to_Use_journalctl.pdf)
 
-  - [Rackspace: Understanding logrotate utility](resources/Understanding_logrotate_utility.pdf)
+  - [Rackspace: Understanding logrotate utility](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/Resources/Understanding_logrotate_utility.pdf)
 
 </details>
 
