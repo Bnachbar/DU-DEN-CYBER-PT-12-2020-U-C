@@ -56,7 +56,7 @@ To set up your lab environment with the necessary files, complete the following 
 
 ### Instructions
 
-As you solve each step below, please fill out the [Submission File](SubmissionFile.md). This will be your homework deliverable.
+As you solve each step below, please fill out the [Submission File](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/05-Archiving-and-Logging-Data/SubmissionFile.md). This will be your homework deliverable.
 
 In each of the following sections, you will use and build on your system administration tools and knowledge. Make sure to read the instructions carefully.
 
@@ -256,7 +256,7 @@ For the bonus, **write** the `journactl` commands, for each use case below.
 
 ### Submission Guidelines 
 
-- Please fill out and submit [SubmissionFile.md](SubmissionFile.md).
+- Please fill out and submit [SubmissionFile.md](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/05-Archiving-and-Logging-Data/SubmissionFile.md).
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
