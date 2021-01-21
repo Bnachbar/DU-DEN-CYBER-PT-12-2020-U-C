@@ -344,7 +344,7 @@ The root crontab is an exact replica of a user version, with the exception of th
 
 ### 03. Simple Cron Jobs Activity
 
-- [Activity File: Simple Cron Jobs](./Activities/03_Simple_Cronjobs/Unsolved/README.md)
+- [Activity File: Simple Cron Jobs](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/2/Activities/03_Simple_Cronjobs/Unsolved/README.md)
 
 ### 04. Review Simple Cron Jobs 
 
@@ -502,7 +502,7 @@ Using scripts allows us to complete complex tasks, such as creating backups or c
 ### 06.  Introduction to Scripts Activity
 
 
-- [Activity File: Introduction to Scripts](./Activities/06_Introduction_to_Scripts/Unsolved/README.md)
+- [Activity File: Introduction to Scripts](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/2/Activities/06_Introduction_to_Scripts/Unsolved/README.md)
 
 ### 07. Review Introduction to Scripts Review 
 
@@ -688,11 +688,11 @@ You can run specific scans with the command `sudo lynis audit --test-group <test
 
 ### 10.Review Scheduling Backups and Cleanups 
 
-- [Solution Guide: Scheduling Backups and Cleanups](./Activities/10_Scheduling_Backups_and_Cleanups/Solved/README.md)
+- [Solution Guide: Scheduling Backups and Cleanups](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/2/Activities/10_Scheduling_Backups_and_Cleanups/Unsolved/README.md)
 
 ### 11. Additional Cron Assignment
 
-- [Activity File: Reviewing `cron`](./Activities/13_Reviewing_Crons/Unsolved/README.md)
+- [Activity File: Reviewing `cron`](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/2/Activities/13_Reviewing_Crons/Unsolved/README.md)
 
 
 ### 12. Reviewing `cron` (0:10)
