@@ -291,7 +291,7 @@ Knowing how to manage logs using `journalctl` is a crucial skill for security ad
  
 ### 02. Log Filtering Activity
 
-- [Activity File: Log Filtering](./Activities/03_Log_Filtering/Unsolved/README.md)
+- [Activity File: Log Filtering](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/3/Activities/03_Log_Filtering/Unsolved/README.md)
 
 ### 03. Review Log Filtering 
 
@@ -579,7 +579,7 @@ The steps that we needed to complete were:
 ### 05. Log Size Management Activity 
 
 
-- [Activity File: Log Size Management](./Activities/05_Log_Size_Management.md/Unsolved/README.md)
+- [Activity File: Log Size Management](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/3/Activities/05_Log_Size_Management.md/Unsolved/README.md)
 
 
 ### 06. Log Size Management Review
@@ -889,7 +889,7 @@ Completing this demo required the following steps:
 
 ### 08. Event Monitor Log Activity 
 
-- [Activity File: Event Monitor Logging](./Activities/09_Event_Monitor_Logging/Unsolved/README.md)
+- [Activity File: Event Monitor Logging](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/3/Activities/09_Event_Monitor_Logging/Unsolved/README.md)
 
 ### 09. Review Event Monitor Log 
 
