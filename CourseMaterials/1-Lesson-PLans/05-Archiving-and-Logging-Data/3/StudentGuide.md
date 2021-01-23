@@ -170,7 +170,7 @@ Let's look at the first option: `journalctl --list-boots`
  
 `journalctl` provides a vast array of command options. Students can download this PDF to learn some of the most popular commands:
  
-- [How to Use journalctl to Read Linux System Logs](../resources/How_to_Use_journalctl.pdf)
+- [How to Use journalctl to Read Linux System Logs](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/05-Archiving-and-Logging-Data/Resources/How_to_Use_journalctl.pdf)
 
 #### `journalctl` Demo Setup
  
