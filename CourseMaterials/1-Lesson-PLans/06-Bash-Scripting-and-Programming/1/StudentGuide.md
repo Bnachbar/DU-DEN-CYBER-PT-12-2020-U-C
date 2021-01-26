@@ -246,7 +246,7 @@ Compound commands using `&&` typically follow this format:
 ### 02. Compound Commands Activity
 
 
-- [Activity File: Compound Commands](Activities/02_STU_Compound_Commands/Unsolved/Readme.md)
+- [Activity File: Compound Commands](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/06-Bash-Scripting-and-Programming/1/Activities/02_Compound_Commands/Unsolved/Readme.md)
 
 
 ### 03. Review Compound Commands
@@ -474,7 +474,7 @@ alias rm='rm -i'
 
 ### 05. Creating Aliases Activity
 
-- [Activity File: Creating Aliases](Activities/05_STU_Creating_Aliases/Unsolved/Readme.md)
+- [Activity File: Creating Aliases](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/06-Bash-Scripting-and-Programming/1/Activities/05_Creating_Aliases/Unsolved/Readme.md)
 
 
 ### 06. Creating Aliases Review
@@ -817,7 +817,7 @@ Next, run `./my_script.sh`
 ### 08. My First Bash Script Activity
 
 
-- [Activity file: My First Bash Script](Activities/09_STU_First_Bash_Script/Unsolved/Readme.md)
+- [Activity file: My First Bash Script](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/06-Bash-Scripting-and-Programming/1/Activities/09_First_Bash_Script/Readme.md)
 
 
 ### 10. First Bash Script Review
@@ -968,7 +968,7 @@ Creating custom scripts that you can use as custom commands like this is a valua
 ### 12. Custom Commands Activity
 
 
-- [Activity File: Custom Command](Activities/12_STU_Custom_Commands/Unsolved/Readme.md)
+- [Activity File: Custom Command](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/06-Bash-Scripting-and-Programming/1/Activities/12_Custom_Commands/Unsolved/Readme.md)
 
 
 ### 13.  Custom Commands Review
