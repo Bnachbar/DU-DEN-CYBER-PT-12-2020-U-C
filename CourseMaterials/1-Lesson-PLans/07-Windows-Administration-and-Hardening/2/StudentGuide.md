@@ -59,7 +59,7 @@ The following Google Doc contains a list of common Windows issues that occur dur
 
 After completing the day, if you ran the package removal scripts, you can restage your Choco Apps by running the corresponding script for either the activity or demo or both:
 
-- [stagebloat.ps1](Resources/stagebloat.ps1)
+- [stagebloat.ps1](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/07-Windows-Administration-and-Hardening/2/Resources/stagebloat.ps1)
 
 If you are not familiar with `Chocolatey` packages and want to know more, please checkout [Why Chocolatey?](https://chocolatey.org/why-chocolatey). 
 
