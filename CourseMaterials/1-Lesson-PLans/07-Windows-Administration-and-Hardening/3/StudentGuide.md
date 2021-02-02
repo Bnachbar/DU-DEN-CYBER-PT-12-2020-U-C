@@ -262,7 +262,7 @@ With ADUC still open, complete the following steps:
 
 - Right-click **GOODCORP.NET**, go to **New**, then **Organizational Unit**.
 
-![NewOU](Images/NewOU.png)
+![NewOU](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewOU.png?token=AQCHCGA2SS7VRPUNYZ2BCWTAELPDU)
 
 - Name this OU `GC Users` (short for Good Corp, Inc.).
 
@@ -272,13 +272,13 @@ Let's create the `Marketing` sub-organizational unit.
 
 - Right-click **GC Users**, then click **New**, then **Organizational Unit**.
 
-![NewSubOU](Images/NewSubOU.png)
+![NewSubOU](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewSubOU.png?token=AQCHCGDLVZ5RR34T3IPAURDAELPDY)
 
 - Name this sub-OU `Marketing` and click **OK**.
 
 We now have a sub-OU for our Marketing team. This will include our Marketing team users, who will all have the same policies applied to them. 
 
-![MarketingSubOU](Images/MarketingSubOU.png)
+![MarketingSubOU](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/MarketingSubOU.png?token=AQCHCGG5DXRHYJ7H7LIDEZTAELPD6)
 
 Now, lets add a user. 
 
@@ -290,11 +290,11 @@ With ADUC still open, complete the following steps:
 
 - Click to expand the **GC Users** organizational unit, right-click **Marketing**, then **New** > **User**. The New Object - User window will appear.
 
-![NewSubOUUser](Images/NewSubOUUser.png)
+![NewSubOUUser](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewSubOUUser.png?token=AQCHCGECXICJYUEQBV6JNU3AELPE2)
 
 - In this window, enter `Caroline` for the first name and for the user logon name.
 
-   ![Caroline User](./Images/NewCarolineUser.png)
+   ![Caroline User](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewCarolineUser.png?token=AQCHCGEBWH3JEM6JX4KAEWTAELPFA)
 
 Some organizations choose to use the last name initial, first name as the user account.
 
@@ -323,7 +323,7 @@ In a real world scenario, we would have our user reset their password on their f
 
 - Double-click on the **GC Users > Marketing** organizational unit (the folder icon), and note our newly created user, `Caroline`, in the right pane.
 
-  - ![Caroline Created](./Images/CarolineCreated.png)
+  - ![Caroline Created](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/CarolineCreated.png?token=AQCHCGEREQCN5PILBLPHK5DAELPFI)
 
 Now that we have Caroline's domain account set up, we're going to add her to a group.
 
@@ -355,7 +355,7 @@ With ADUC still open, complete the following steps:
 
 - Set the group name to `Marketing`. Leave group scope as **Global** and group type as **Security**.
 
-   ![Marketing Group](./Images/NewGroup.png)
+   ![Marketing Group](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewGroup.png?token=AQCHCGHRV72MDJZC7AUM3S3AELPFO)
 
   - Universal groups exist in the domain forest. If we also own the domains GoodCorp.com and BadCorp.net and they share a transitive trust relationship, user accounts in universal groups can use resources in all of these domains.
 
@@ -367,15 +367,15 @@ With ADUC still open, complete the following steps:
 
 A new group, `Marketing`, will appear in the `GC Users > Marketing` organizational unit. We need to add `Caroline` to `Marketing` now.
 
-  ![Marketing Group Select](./Images/MarketingGroupMarketingOU.png)
+  ![Marketing Group Select](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/MarketingGroupMarketingOU.png?token=AQCHCGGMZ33ODNUKAELZ3BTAELPFW)
 
 - Right-click **Caroline** and go to **Add to a group...**.
 
-  ![Adding Caroline to Group](Images/AddUserGroup.png)
+  ![Adding Caroline to Group](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/AddUserGroup.png?token=AQCHCGFS4B5TWTK2JOXVUNDAELPF2)
 
 - In Select Groups, type "Marketing" in the **Enter the object names to select** field.
 
-  ![Group Select](./Images/SelectGroupPrompt.png)
+  ![Group Select](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/SelectGroupPrompt.png?token=AQCHCGCX6V6LYQHDKZGDI7LAELPF6)
 
 - Click **Check Names**.
 
@@ -383,7 +383,7 @@ A new group, `Marketing`, will appear in the `GC Users > Marketing` organization
 
 - Click **OK**. A new screen will appear saying `The Add to Group operation was successfully completed.`
 
-  ![Added to Group](./Images/AddGroupCompleted.png)
+  ![Added to Group](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/AddGroupCompleted.png?token=AQCHCGG5M7R25LKA7RGC3T3AELPGA)
 - Click **OK**.
 
 `Caroline` is now part of the `Marketing` group in our domain. Later, we will set up the `Marketing` group permissions.
@@ -460,7 +460,7 @@ Begin by opening the Group Policy Management tool.
 
 - Select the **Group Policy Management** tool. The Group Policy Management window will appear.
 
-  ![GroupPolicyManagement](./Images/GroupPolicyManagement.png)
+  ![GroupPolicyManagement](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/GroupPolicyManagement.png?token=AQCHCGBO6IIFM2O7MV3TH6DAELPZG)
 
 Note that the left pane of the Group Policy Management window looks similar to where we saw our domain and organizational units.
 
@@ -468,11 +468,11 @@ Click on the following:
 
 - In the Group Policy Management window, click on **Forest**. Move through **GOODCORP.NET** > **Domains**>  **GOODCORP.NET**. 
 
-   ![Domain GPO](./Images/DomainGPO.png)
+   ![Domain GPO](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/DomainGPO.png?token=AQCHCGESZFHVZ324FDKV4HDAELPZM)
 
 - Right-click **Group Policy Objects** under **GOODCORP.NET** and click **New**.
 
-   ![New Domain GPO](./Images/NewGPO.png)
+   ![New Domain GPO](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NewGPO.png?token=AQCHCGDP6KGCGLYXO7T3GB3AELPZ6)
 
 In the New GPO window, type "No Control Panel" for the name.
 
@@ -480,7 +480,7 @@ In the New GPO window, type "No Control Panel" for the name.
 
 - Note the new `No Control Panel` GPO under the defaults in the Group Policy Objects list on the right-side pane.
 
-   ![No Control Panel GPO](./Images/NoControlPanelGPO.png)
+   ![No Control Panel GPO](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/NoControlPanelGPO.png?token=AQCHCGHTB2QXNXTFEYZWXMDAELP2E)
 
 #### Add Group Policies to Group Policy Object
 
@@ -492,7 +492,7 @@ This is where you select the policies to add to your GPO.
 
 - Navigate to **User Configuration**, then click **Policies** >  **Administrative Templates** > **Control Panel**. On the right-side pane are default policies you can edit.
 
-  ![Control Panel Policies](./Images/ControlPanelPolicies.png)
+  ![Control Panel Policies](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/ControlPanelPolicies.png?token=AQCHCGA4V5EYRTCHL7OW2D3AELP2I)
 
 - Double-click the **Prohibit access to Control Panel and PC settings** policy. It will open the Prohibit access to Control Panel and PC settings window.
 
@@ -500,7 +500,7 @@ This is the policy to deny access to the Control Panel on Windows systems.
 
 - Select **Enable**, then press **Apply** > **OK**.
 
-  ![Prohibit Control Panel Policy](./Images/ProhibitControlPanelGPO.png)
+  ![Prohibit Control Panel Policy](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/ProhibitControlPanelGPO.png?token=AQCHCGA3IGAFWYCS5PNROATAELP2M)
 
 - Close the Group Policy Management Editor window.
 
@@ -514,7 +514,7 @@ Navigate to the Group Policy Management window so that we can link the Group Pol
   
 - Right-click the `Marketing` Organizational Unit under `GC Users` and select `Link an Existing GPO...`. The `Select GPO` window will appear.
 
-  ![Select GPO to Link](./Images/SelectGPOLink.png)
+  ![Select GPO to Link](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/SelectGPOLink.png?token=AQCHCGGH5CTYQWZ2762FXN3AELP2S)
 
 We can now apply the `No Control Panel` GPO we created.
 
@@ -522,7 +522,7 @@ We can now apply the `No Control Panel` GPO we created.
 
 We have now applied the `No Control Panel` GPO to the `GC Users > Marketing` OU.
 
-  ![Linked GPO](./Images/LinkedGPO.png)
+  ![Linked GPO](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/LinkedGPO.png?token=AQCHCGCH4CU3TSYHI5CXTFDAELP2W)
 
 #### Allow Group to Remote Demo
 
@@ -538,7 +538,7 @@ But first, we have to add `Bob` to the `Remote Desktop Users` group so that we c
 
   - Select **Remote Desktop Users** and click **OK**. Then **OK** on the next window to apply it.
 
-  ![Remote Desktop Users Group](./Images/RemoteDesktopUsersGroup.png)
+  ![Remote Desktop Users Group](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/RemoteDesktopUsersGroup.png?token=AQCHCGCLUOTZEE7CHHBLESTAELP24)
 
 #### Toggle Enhanced Session Mode to Basic session and Test GPO
 
@@ -570,7 +570,7 @@ Toggling the Windows 10 virtual machine to **Basic session** mode will allow us 
 
 - Click on the button pictured below to toggle the virtual machine into **Basic session** mode. If you hover your mouse over the button, you’ll be able to see which mode you are toggling to.
 
-  - ![Toggle Session Moede](Images/ToggleSessionMode.png)
+  - ![Toggle Session Moede](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/ToggleSessionMode.png?token=AQCHCGAUQ3MTYOCSCN4A2X3AELP3E)
 
 After toggling to **Basic session**:
 
@@ -584,13 +584,13 @@ You should see the first-time Windows 10 login messages, such as `Hi` and `We're
 
 - Click on the Start menu or the search bar and type "Control Panel." 
 
-  ![Search Control Panel](./Images/SearchControlPanel.png)
+  ![Search Control Panel](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/SearchControlPanel.png?token=AQCHCGHE4DS4IV3XNWMAX33AELP3K)
 
 We should not be able to access the Control Panel as `Bob`.
 
 - Press Enter to see the following Restrictions warning:
 
-  ![Restrictions Warning](./Images/RestrictionsWarning.png)
+  ![Restrictions Warning](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/07-Windows-Administration-and-Hardening/3/Images/RestrictionsWarning.png?token=AQCHCGBYWYPP7QGAJCV3CCTAELP3Q)
 
 If you want to swap back to the `sysadmin` user you'll want to sign out of `Bob`, then at the **Other user** login area, enter:
 
