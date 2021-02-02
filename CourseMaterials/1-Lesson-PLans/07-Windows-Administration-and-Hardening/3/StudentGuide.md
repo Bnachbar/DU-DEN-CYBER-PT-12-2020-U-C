@@ -86,7 +86,7 @@ Before we can get started with Active Directory, we'll want to understand how it
 
 - Use following guide if needed:
 
-  - [Launching your Windows Lab](./Activities/00_Windows_Lab/ReadMe.md)
+  - [Launching your Windows Lab](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/07-Windows-Administration-and-Hardening/3/Activities%20/00_Windows_Lab/ReadMe.md)
 
 - Ensure that you launch the virtual machines and do Step 3 to extend your virtual machine evaluation licenses.
 
