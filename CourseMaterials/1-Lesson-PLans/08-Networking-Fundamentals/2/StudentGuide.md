@@ -708,14 +708,14 @@ Wireshark has many configurations for displaying packets.  As a security analyst
   - Right-click the field you want as a header (in this case, the Source Port field).
   - Select `Apply as Column` .
 
-    ![interfaces](Images/ws_addcolumn.png)
+    ![interfaces](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/2/Images/ws_nameres.png?token=AQCHCGF47UE2GAIMPWKAUDDAFQRJU)
 
 - Removing columns in the Packet List pane that are unnecessary for your analysis.
 
   - Right-click on the header of the column you want to remove.
   - Select `Remove this Column`.
 
-    ![interfaces](Images/ws_removecolumn.png)		
+    ![interfaces](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/2/Images/ws_addcolumn.png?token=AQCHCGCBHNS43SSNHCQZ6NDAFQRJ6)		
 
 Now that we've completed several configurations, we can analyze the captured log file.
 
