@@ -488,7 +488,7 @@ Note the different features of the page:
 
   - Point out several devices we've covered in class, such as routers, switches, computers, and firewalls.
 
-    ![gliffy design page](Images/gliffy3.png)
+    ![gliffy design page](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/1/Images/gliffy3.png?token=AQCHCGFP7PJZOKOFCJQRSJLAFQPLG)
 
 - Add a device to the design by simply dragging and dropping them in the gridded space.
 
