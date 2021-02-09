@@ -145,7 +145,7 @@ In the upcoming demo, we’ll analyze a .pcap file to visualize ARP requests and
 
  - Open Wireshark.
 
- - Navigate to `File` > `Open` and select the [arp.pcap](Resources/arp_class.pcap) file.
+ - Navigate to `File` > `Open` and select the [arp.pcap](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/arp_pcap.pcapng.cap) file.
 
 Once the file opens, we will filter for all the ARP packets, by entering `arp` in the filter.
 
@@ -171,7 +171,7 @@ There is another ARP request and reply in the packet capture. While the request 
   - The source host of `10.10.10.1` is making a broadcast message to everyone in the local network to see who owns `10.10.10.2`.
   - `10.10.10.2` then tells `10.10.10.1` that its MAC address is `00:1a:6b:6c:0c:cc`.
 
-    ![request and reply](Images/request&reply.png)
+    ![request and reply](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/3/Images/request%26reply.png?token=AQCHCGGXCFQU7KH6CPKYPITAFQVDE)
 
 We can also filter our file to show only ARP requests or ARP responses. Doing so can help security professionals isolate certain types of packets when there are many to analyze.
 
@@ -233,7 +233,7 @@ There are mitigation methods to protect against an **ARP poisoning attack**.
 
 
 - [Activity File: Analyzing ARP](Activities/04_Analyzing_ARP/unsolved/readme.md)
-- [ARP Log Files](Resources/arp_packets.pcap)
+- [ARP Log Files](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/arp_packets.pcap)
 
 ### 05. Review Analyzing ARP Activity
 
@@ -726,7 +726,7 @@ We used UDP datagrams when sending `ping` and `traceroute` requests, because if 
 
 Now we will demonstrate how the **TCP three-way handshake** works in Wireshark:
 
-  - Log into Wireshark and open [3wayhs.pcapng file](Resources/3wayhs.pcapng).
+  - Log into Wireshark and open [3wayhs.pcapng file](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/3wayhs.pcapng).
 
 This .pcap is a depiction of the three-way TCP handshake that takes place when a website is accessed.
 
@@ -796,7 +796,7 @@ Wireshark can also easily distinguish between the client and the server in these
 ### 13. Analyzing TCP Traffic
 
 - [Activity File: Analyzing TCP Traffic](Activities/14_Analyzing_TCP_Traffic/unsolved/readme.md)
-- [New Employee TCP Packet Capture](Resources/packetcapTCPclass.pcapng)
+- [New Employee TCP Packet Capture](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/packetcapTCPclass.pcapng)
 
 
 ### 14. Review Analyzing TCP Traffic Activity (0:08)
@@ -853,7 +853,7 @@ In the upcoming demonstration:
 
 We will use Wireshark to analyze the results of the SYN Scan run against Company X.
 
-- Log into wireshark and pull up [synscandemo.pcapng](Resources/synscandemo.pcapng).
+- Log into wireshark and pull up [synscandemo.pcapng](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/synscandemo.pcapng).
 
 We will first filter for only TCP packets by entering `TCP` in the filter.
 
@@ -967,7 +967,7 @@ Since Company X's London machine is only supposed to allow web traffic on port `
 
 
 - [Activity File: Analyzing a SYN Scan ](Activities/17_Analyzing_SYN_Scan/unsolved/readme.md)
-- [SYN Scan Packet Capture](Resources/synscan.pcapng)
+- [SYN Scan Packet Capture](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/08-Networking-Fundamentals/3/Resources%20/synscan.pcapng)
 
 
 
