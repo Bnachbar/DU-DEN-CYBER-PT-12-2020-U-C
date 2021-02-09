@@ -147,7 +147,7 @@ When computer networks were first created, they were smaller, private networks i
 
 A **Local area network (LAN)** as a private computer network that connects devices in smaller physical areas like a room or single building, such as a small office or home network.
 
-![lan](Images/lan.png)
+![lan](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/1/Images/lan.png?token=AQCHCGETYLT2O5WLNCCFHATAFQO2O)
 
 There are many advantages of using a LAN:
 
@@ -933,7 +933,7 @@ The `hosts` file is where the DNS translation occurs on your Linux operating sys
 
 - Add in the following record: `137.74.187.102  krebsonsecurity.com`
 
-  ![DNSspoof](Images/dns_spoof.png)
+  ![DNSspoof](https://raw.githubusercontent.com/coding-boot-camp/cybersecurity-v2/master/1-Lesson-Plans/08-Networking-Fundamentals/1/Images/dns_spoof.png?token=AQCHCGCEYD2WALSHZJK44XLAFQO5U)
 
 Save the file:
   - Hit `ctrl+x` then `y` then press enter.
