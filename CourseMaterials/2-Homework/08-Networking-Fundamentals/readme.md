@@ -12,7 +12,7 @@ You have just been hired by RockStar Corporation as a network security analyst.
 
 RockStar Corp has provided you with:
 
-- A list of their network assets: [Rock Star Server List](resources/Rockstarserverlist.xlsx)
+- A list of their network assets: [Rock Star Server List](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/2-Homework/08-Networking-Fundamentals/Resources/Rockstarserverlist.xlsx)
 - Instructions to scan their network.
 
 ### Your Goal
