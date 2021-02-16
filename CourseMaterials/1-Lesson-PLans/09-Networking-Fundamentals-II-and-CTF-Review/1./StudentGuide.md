@@ -130,7 +130,7 @@ Enter in the following filters:
     
   - Clarify that `dhcp.option.dhcp == 4` is used for **DHCP Decline**. This is why DHCP ACK is `dhcp.option.dhcp == 5`.
 
-![DHCP3](Images/DHCP3.png)
+![DHCP3](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/raw/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Images/dhcp3.png)
 
 
 #### Network Address Translation (NAT)
@@ -240,7 +240,7 @@ You should be aware of denial of service (DoS) attacks. A DHCP starvation attack
 
   - For example: If a hospital experiences this type of attack, doctors needing to connect to the internet to access critical patient information wouldn't be able to do so.
   
-Now, we'll visualize a DHCP starvation attack by opening up the [DHCPAttack.pcap](Resources/DHCPAttack.pcap) file in Wireshark.
+Now, we'll visualize a DHCP starvation attack by opening up the [DHCPAttack.pcap](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Resources%20/DHCPAttack.pcap) file in Wireshark.
 
 ![dhcpstarvepcap](Images/dhcpstarve.png) 
 
@@ -283,8 +283,8 @@ We can protect against DHCP spoofing through a process known as DHCP snooping.
 ### 04. DHCP Attacks Activity 
 
 
-- [Activity File: DHCP Attacks](Activities/04_DHCP_Attacks/unsolved/readme.md) 
-- [DHCP Attacks Packet Capture](Resources/DHCPactivity.pcapng)
+- [Activity File: DHCP Attacks](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/tree/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/04_DHCP_Attacks/Unsolved%20) 
+- [DHCP Attacks Packet Capture](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/04_DHCP_Attacks/Unsolved%20/DHCPactivity.pcapng)
    
   
 ### 05. Review DHCP Attacks Activity 
@@ -397,8 +397,8 @@ In the above example, Device A needs to send data to Device C.
 ### 07. Routing Schemes and Protocols Activity
 
 
-- [Activity File: Routing Schemes and Protocols](Activities/07_Routing_Schemes_and_Protocols/unsolved/readme.md) 
-- [Acme Office Network Diagrams](Resources/AcmeOffice.docx)
+- [Activity File: Routing Schemes and Protocols](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/tree/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/07_Routing_Schemes_and_Protocols/Unsolved%20) 
+- [Acme Office Network Diagrams](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/07_Routing_Schemes_and_Protocols/Unsolved%20/AcmeOffice.docx)
    
 
 
@@ -463,7 +463,7 @@ WiFi provides great advantages by allowing users to connect their devices to the
  
 Now, we will now use Wireshark to visualize wireless beacon signals, capture BSSIDs and SSIDs, and determine which wireless security is being used by the wireless access points.
 
-- Open the wireless packet capture:  [Beacon.pcapng](Resources/Beacon.pcapng).
+- Open the wireless packet capture:  [Beacon.pcapng](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Resources%20/Beacon.pcapng).
 
 - Note that there are two beacon signals in this wireless packet capture.
   
@@ -530,8 +530,8 @@ In order to view whether or not they are using WPA and find out the WPA version,
 ### 10. Analyzing Wireless Security Activity
 
 
-- [Activity File: Analyzing Wireless Security](Activities/11_Analyzing_Wireless_Security/unsolved/readme.md) 
-- [Kansas City Packet Captures](Resources/wireless2.pcapng)
+- [Activity File: Analyzing Wireless Security](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/tree/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/11_Analyzing_Wireless_Security/Unsolved%20) 
+- [Kansas City Packet Captures](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/11_Analyzing_Wireless_Security/Unsolved%20/wireless2.pcapng)
    
 
 
@@ -549,7 +549,7 @@ In the following walkthrough, we will demonstrate decrypting WEP-encrypted wirel
 
 - Aircrack-NG is a free wireless decryption tool provided in Kali Linux. It is already installed it on the Ubuntu machine you are already using.
 
-Open the packet capture [WEP.pcap](Resources/WEP.pcap)
+Open the packet capture [WEP.pcap](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Resources%20/WEP.pcap)
 
 - This is the wireless traffic from the SSID `Ment0rNet`, from the previous lesson.
 
@@ -625,9 +625,9 @@ While all the above methods are attacks that use a legitimate wireless access po
   
 ### 13. Wireless Attacks Activity 
 
-- [Activity File: Wireless Attacks](Activities/14_Wireless_Attacks/unsolved/readme.md) 
+- [Activity File: Wireless Attacks](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/tree/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/14_Wireless_Attacks/Unsolved) 
 
-- [Kansas City WEP Packet Capture](Resources/kansascityWEP.pcap)
+- [Kansas City WEP Packet Capture](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Activities/14_Wireless_Attacks/Unsolved/kansascityWEP.pcap)
    
 
 ### 14. Review Wireless Attacks Activity 
