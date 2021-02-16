@@ -79,7 +79,7 @@ There is a **four-step process** for requesting and receiving an IP from a DHCP 
 
 Now we will walk through these four steps using Wireshark.
 
-- Start Wireshark and open the [dhcp.pcap file](Resources/dhcp.pcap).
+- Start Wireshark and open the [dhcp.pcap file](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-cyber-pt-12-2020-u-c/blob/master/CourseMaterials/1-Lesson-PLans/09-Networking-Fundamentals-II-and-CTF-Review/1./Resources%20/dhcp.pcap).
 
 - This Wireshark capture only contains the **Four-Step DHCP process** points. 
 
